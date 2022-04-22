@@ -1,5 +1,5 @@
-//# Prosthetic-Project
-//BME Lab I Project
+# Prosthetic-Project
+BME Lab I Project
 #include <Servo.h>
 // servo library
 
